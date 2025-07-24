@@ -1,9 +1,4 @@
-.. Foo documentation master file, created by
-   sphinx-quickstart on Mon Jul 21 22:05:54 2025.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+pcf8575: Driver for PCF8575 remote 16-bit I/O expander for I2C-bus
+==================================================================
 
-Welcome to Foo's documentation!
-===============================
-
-.. doxygenfile:: template-component.h
+ .. doxygenfile:: pcf8575.h

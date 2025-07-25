@@ -1,5 +1,9 @@
 # esp-idf-lib/pcf8575
 
+[![Build examples](https://github.com/esp-idf-lib/pcf8575/actions/workflows//build.yml/badge.svg)](https://github.com/esp-idf-lib/pcf8575/actions/workflows//build.yml)
+[![Build docs](https://github.com/esp-idf-lib/pcf8575/actions/workflows//build-docs.yml/badge.svg)](https://github.com/esp-idf-lib/pcf8575/actions/workflows//build-docs.yml)
+[![Validation](https://github.com/esp-idf-lib/pcf8575/actions/workflows//validate-component.yml/badge.svg)](https://github.com/esp-idf-lib/pcf8575/actions/workflows//validate-component.yml)
+
 Driver for PCF8575 remote 16-bit I/O expander for I2C-bus.
 
 * [Documentation](https://esp-idf-lib.github.io/pcf8575/)
@@ -11,7 +15,7 @@ Driver for PCF8575 remote 16-bit I/O expander for I2C-bus.
 ## Installation
 
 ```sh
-idf.py add-dependency esp-idf-lib/pcf8575^1.0.0
+idf.py add-dependency esp-idf-lib/pcf8575
 ```
 
 ## Support

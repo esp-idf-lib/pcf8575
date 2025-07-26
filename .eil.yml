@@ -1,7 +1,7 @@
 ---
 name: pcf8575
 description: Driver for PCF8575 remote 16-bit I/O expander for I2C-bus
-version: 1.0.3
+version: 1.0.4
 groups:
   - gpio
 code_owners: UncleRus
